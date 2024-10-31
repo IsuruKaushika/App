@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "687098585013",
+    "firebase_url": "https://solwinv1-68380-default-rtdb.firebaseio.com",
+    "project_id": "solwinv1-68380",
+    "storage_bucket": "solwinv1-68380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687098585013:android:10490032816cd0cf5483fc",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS3Wnlo_b9oWFJjBf6EyVtJ0xXuNRu03c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687098585013:android:bf925f4289f222855483fc",
+        "android_client_info": {
+          "package_name": "com.example.solwin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS3Wnlo_b9oWFJjBf6EyVtJ0xXuNRu03c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
