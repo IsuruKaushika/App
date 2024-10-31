@@ -20,15 +20,13 @@ class SignupActivity : AppCompatActivity() {
     private lateinit var binding:ActivitySignupBinding
 
 
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         auth = Firebase.auth
         binding = ActivitySignupBinding.inflate(layoutInflater)
-
         setContentView(binding.root)
+
         binding.textView3.setOnClickListener{
             val intent = Intent(this@SignupActivity,LoginActivity::class.java)
             startActivity(intent)
